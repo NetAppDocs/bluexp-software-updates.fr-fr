@@ -1,0 +1,64 @@
+---
+sidebar: sidebar 
+permalink: get-started/software-updates.html 
+keywords: ontap 9.10, ontap update, supported systems for ontap update, ontap version, software updates benefits 
+summary: Mettez à jour votre système de stockage ONTAP en toute transparence afin de bénéficier des nouvelles fonctionnalités et des améliorations apportées par les mises à jour du logiciel BlueXP . 
+---
+= En savoir plus sur les mises à jour de logiciels BlueXP 
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez mettre à jour votre système de stockage ONTAP afin de bénéficier des nouvelles fonctionnalités et des fonctionnalités améliorées en utilisant les mises à jour du logiciel BlueXP . Cela peut vous aider à réduire les coûts, accélérer les workloads stratégiques et améliorer la sécurité.
+
+Le service de mises à jour logicielles BlueXP  permet aux clients de rationaliser les mises à jour ONTAP. Il automatise les processus d'évaluation, de planification et d'exécution. L'outil intelligent de conseil des mises à niveau prévoit les versions qui conviennent le mieux à votre environnement. Il recommande des versions afin de résoudre les problèmes, d'améliorer l'efficacité et d'améliorer la sécurité du système. Les clients peuvent ainsi déterminer la meilleure option pour répondre à leurs besoins. Ensuite, il distribue le progiciel et exécute automatiquement la mise à niveau automatisée sans distribution (ANDU), indépendamment des services de support.
+
+
+
+== Systèmes pris en charge
+
+
+
+=== Systèmes ONTAP
+
+Vous pouvez effectuer la mise à jour ONTAP à l'aide du service de mises à jour logicielles BlueXP  uniquement si vous utilisez ONTAP 9.10 ou des versions ultérieures.
+
+Les informations suivantes fournissent le processus de mise à jour du logiciel pour différentes versions de ONTAP :
+
+|===
+| *Version actuelle de ONTAP* | *Processus de mise à jour* 
+
+
+| 9.12 et plus | Toutes les étapes de la mise à jour ONTAP se produisent dans BlueXP . 
+
+
+| 9.10 à 9.12 | La préparation de la mise à jour ONTAP s'effectue dans les écrans de mise à jour du logiciel BlueXP . Vous allez accéder à System Manager pour effectuer la mise à jour ONTAP proprement dite. Pour exécuter toutes les étapes de la mise à jour ONTAP dans BlueXP , vous devez link:https://docs.netapp.com/us-en/bluexp-setup-admin/task-install-connector-on-prem.html["configurer un connecteur"]. 
+
+
+| 9.8 à 9.10 | La préparation de la mise à jour ONTAP s'effectue dans les écrans de mise à jour du logiciel BlueXP . Vous allez accéder à System Manager pour effectuer la mise à jour ONTAP proprement dite. 
+
+
+| Inférieur à 9.7 | La mise à jour ONTAP automatisée n'est pas prise en charge pour ce cluster. Vous devez mettre à jour ONTAP manuellement. Pour plus d'informations, voir link:https://docs.netapp.com/us-en/ontap/upgrade/index.html["mettez à jour manuellement vos systèmes de stockage"]. 
+|===
+
+
+== Avantages des mises à jour du logiciel BlueXP 
+
+La mise à jour de votre système de stockage ONTAP peut vous aider à améliorer les performances, la sécurité et les fonctionnalités de votre système de stockage.
+
+Voici quelques-uns des avantages de la mise à jour de votre système de stockage ONTAP :
+
+* Vous pouvez accéder aux dernières fonctionnalités et améliorations de ONTAP, notamment les nouveaux protocoles, les services de données et les options d'intégration au cloud.
+* Vous pouvez corriger tous les bogues ou vulnérabilités qui pourraient affecter la stabilité, la fiabilité ou la sécurité de votre système.
+* Vous pouvez optimiser les performances et l'efficacité de votre système en appliquant les derniers correctifs et améliorations.
+* Vous pouvez assurer la compatibilité et l'interopérabilité avec les autres produits NetApp, les applications tierces et les fournisseurs cloud.
+* Vous bénéficiez de la maintenance et du support continus offerts par NetApp pour les dernières versions de ONTAP OS.
+
+
+
+
+== Le coût
+
+NetApp ne vous facture pas pour l'utilisation du service.

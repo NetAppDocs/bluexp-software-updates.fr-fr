@@ -1,0 +1,53 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/choose-ontap-910-later.html 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+summary: Étudiez les avantages et les risques de chaque version de ONTAP avant de mettre à niveau votre système de stockage ONTAP. 
+---
+= Choisissez ONTAP cible version 9.10 ou ultérieure
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Avant de choisir la version ONTAP pour le système de stockage, il est très important d'identifier les avantages et de comprendre les risques associés à la version cible de ONTAP.
+
+Vous pouvez choisir la version cible et la comparer à la version actuelle pour comprendre les avantages de la mise à jour vers la version spécifique sur ONTAP. Vous pouvez également voir les risques qui seront résolus et les nouveaux risques (le cas échéant) qui se présenteront lors de la mise à jour vers la version spécifique de ONTAP.
+
+
+NOTE: Vous ne pouvez utiliser cette fonction que si vous utilisez ONTAP 9.10 ou des versions ultérieures.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.
++
+La liste des clusters qui nécessitent une mise à jour logicielle s'affiche. Vous pouvez soit mettre à jour vers la version cible recommandée, soit choisir une autre version.
+
+
+
+|===
+| Si... | Procédez comme ça... 
+
+
+ a| 
+Vous souhaitez effectuer une mise à jour vers la version recommandée
+ a| 
+. Dans la colonne *version cible*, cliquez sur *Comparer les versions* pour afficher les avantages et les risques liés à la mise à jour vers la version ONTAP recommandée.
+. Sélectionnez et affichez les informations sur les risques qui seront résolus, les risques qui continueront de se maintenir et les nouveaux risques qui seront introduits après la mise à jour.
+. Si vous le souhaitez, cliquez sur *Télécharger le plan de mise à jour* pour télécharger une copie du plan de mise à jour.
+. Cliquez sur *Démarrer la mise à jour* pour lancer le processus de mise à jour.
+
+
+
+
+ a| 
+Vous souhaitez choisir une autre version
+ a| 
+. Dans la colonne *version cible*, cliquez sur le menu déroulant et sélectionnez *choisir d'autres versions*.
+. Sélectionnez la version pour afficher les avantages de la fonction et les risques.
+. Sélectionnez et affichez les informations sur les risques qui seront résolus, les risques qui continueront de se maintenir et les nouveaux risques qui seront introduits après la mise à jour.
+. Si vous le souhaitez, cliquez sur *Télécharger le plan de mise à jour* pour télécharger une copie du plan de mise à jour.
+. Cliquez sur *Démarrer la mise à jour* pour lancer le processus de mise à jour.
+
+
+|===

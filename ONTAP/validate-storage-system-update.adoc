@@ -1,0 +1,22 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/validate-storage-system-update.html 
+keywords: validate status of ontap update, track status of ontap update 
+summary: 'Validez l"état de votre mise à jour ONTAP pour décider des prochaines étapes à suivre.' 
+---
+= Validez l'état de la mise à jour du système de stockage ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Une fois le processus de mise à jour ONTAP terminé, vous devez vérifier l'état de la mise à jour ONTAP.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.
+. Cliquez sur l'onglet *Historique* pour afficher l'état de la mise à jour ONTAP.
+
+
+
+NOTE: La réflexion du cluster dans l'onglet « History » prend 2 à 3 heures.

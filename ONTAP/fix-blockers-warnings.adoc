@@ -1,0 +1,39 @@
+---
+sidebar: sidebar 
+permalink: ONTAP/fix-blockers-warnings.html 
+keywords: fix ontap blockers and warnings, ontap update precheck, acknowledge warnings 
+summary: Corrigez les bloqueurs ONTAP et acceptez les avertissements qui vous empêchent de terminer la mise à jour ONTAP. 
+---
+= Corriger et accuser réception des bloqueurs ONTAP
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Une fois que vous avez identifié la version cible ONTAP de votre système de stockage ONTAP, vous devez corriger et accuser réception de tous les bloqueurs, puis passer en revue les avertissements avant de mettre à jour le système de stockage ONTAP.
+
+La correction et la reconnaissance de tous les bloqueurs sont obligatoires et assurent un processus de mise à jour de logiciel transparent.
+
+.Étapes
+. Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.
++
+La liste des clusters qui nécessitent une mise à jour logicielle s'affiche.
+
+. Identifiez la version cible ONTAP de votre système de stockage. Pour plus d'informations sur l'identification de la version cible ONTAP, reportez-vous à la section link:../ONTAP/choose-ontap-910-later.html["Choisissez ONTAP cible version 9.10 ou ultérieure"].
+. Une fois que vous avez choisi la version cible de ONTAP, cliquez sur *préparer la mise à jour* pour lancer le processus de mise à jour.
++
+La liste des bloqueurs et des avertissements s'affiche.
+
+. Sélectionnez le bloqueur pour afficher les instructions de correction du bloqueur.
+. Effectuez manuellement les étapes fournies pour corriger le blocage.
+. Sélectionnez les bloqueurs qui ont été corrigés et cliquez sur *Acknowledge selected* pour confirmer que les bloqueurs ont été corrigés.
+
+
+
+NOTE: Vous devez corriger et accuser réception de tous les bloqueurs pour poursuivre la mise à jour.
+
+. Cliquez sur l'onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.
+. Cliquez sur l'onglet *Acknowledge* pour afficher les bloqueurs qui ont été corrigés.
+. Cliquez sur *Continuer pour mettre à jour* pour poursuivre le processus de mise à jour.
+

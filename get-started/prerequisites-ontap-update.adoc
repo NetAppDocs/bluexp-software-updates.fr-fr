@@ -15,8 +15,8 @@ Commencez par vérifier que votre environnement opérationnel, votre connexion, 
 
 Pour utiliser les mises à jour logicielles BlueXP , vous devez vous assurer que votre environnement répond à toutes les exigences.
 
-* Un compte BlueXP  valide doit être disponible.
-* L'environnement de travail est configuré dans BlueXP .
+* Une organisation BlueXP  est disponible.
+* Un environnement de travail est configuré dans BlueXP .
 * Les Privileges d'administration sont disponibles pour effectuer la mise à jour du logiciel à l'aide de System Manager.
 * Les informations d'identification de l'administrateur sont disponibles pour le cluster souhaité lors de la mise à jour du logiciel.
 * Tous les nœuds du cluster envoient des données AutoSupport.

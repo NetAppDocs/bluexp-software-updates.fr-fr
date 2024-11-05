@@ -23,4 +23,4 @@ Découvrez les nouveautés des mises à jour du logiciel BlueXP .
 
 Le service de mises à jour logicielles BlueXP  offre aux utilisateurs une expérience de mise à jour fluide en limitant les risques et en leur permettant d'exploiter pleinement les fonctionnalités ONTAP.
 
-En savoir plus sur link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Mises à jour du logiciel BlueXP "^].
+En savoir plus sur link:https://docs.netapp.com/us-en/bluexp-software-updates/get-started/software-updates.html["Mises à jour du logiciel BlueXP "].

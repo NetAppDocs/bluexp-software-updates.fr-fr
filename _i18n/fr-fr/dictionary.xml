@@ -155,7 +155,6 @@
   <block id="a262e6e8b2140ed65b4662f6ea3826e9" category="section-title">Mise à jour ONTAP</block>
   <block id="bfcca17c4ea8c7320a1a54960ce35444" category="paragraph">Le service de mises à jour logicielles BlueXP  offre aux utilisateurs une expérience de mise à jour fluide en limitant les risques et en leur permettant d'exploiter pleinement les fonctionnalités ONTAP.</block>
   <block id="8e28797de414b72e6beab6ed5932133f" category="inline-link-macro">Mises à jour du logiciel BlueXP </block>
-  <block id="3b51dbc206ff39db31b586cff27b62b6" category="paragraph">En savoir plus sur <block ref="5932964ef1a5389f9863c988396d1e93" category="inline-link-macro-rx"></block>.</block>
   <block id="c9df4195a305212ffd7b56d24f67129d" category="summary">NetApp prend en charge BlueXP de plusieurs façons. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
   <block id="fabfc25ef8996fd90836e58a4c0b26b6" category="doc">Obtenez de l'aide</block>
   <block id="7c5661ab6b39ee901cea00a6e7020a49" category="paragraph">NetApp prend en charge BlueXP et ses services cloud de différentes manières. De nombreuses options d'auto-assistance gratuites sont disponibles 24 h/24 et 7 j/7, comme des articles de la base de connaissances (KB) et un forum communautaire. Votre inscription au support inclut un support technique à distance via la création de tickets en ligne.</block>
@@ -337,4 +336,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">L'association des informations d'identification du site de support NetApp à votre organisation BlueXP  est nécessaire pour activer les flux de travail clés suivants pour Cloud Volumes ONTAP :</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">L'association des informations d'identification NSS à votre organisation BlueXP  est différente du compte NSS associé à une connexion utilisateur BlueXP .</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">Ces informations d'identification NSS sont associées à votre identifiant d'organisation BlueXP  spécifique. Les utilisateurs qui appartiennent à l'organisation BlueXP  peuvent accéder à ces informations d'identification à partir de *support &gt; gestion NSS*.</block>
+  <block id="cf3625b0846a5497dd36ab2220da602a" category="paragraph">En savoir plus sur <block ref="4ef0c81e219f07a508ae115770245e4e" category="inline-link-macro-rx"></block>.</block>
 </blocks>

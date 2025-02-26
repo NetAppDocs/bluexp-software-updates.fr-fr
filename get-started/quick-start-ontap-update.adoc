@@ -11,7 +11,7 @@ summary: Commencez à mettre à jour votre système de stockage ONTAP rapidement
 
 
 [role="lead"]
-Voici un aperçu des étapes à suivre pour commencer à utiliser les mises à jour du logiciel BlueXP . Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
+Voici un aperçu des étapes nécessaires pour vous lancer rapidement avec les mises à jour du logiciel BlueXP . Les liens de chaque étape vous mènent à une page qui fournit plus de détails.
 
 .image:https://raw.githubusercontent.com/NetAppDocs/common/main/media/number-1.png["Une seule"] Vérifiez les conditions préalables
 [role="quick-margin-para"]

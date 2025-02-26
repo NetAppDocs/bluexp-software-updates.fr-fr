@@ -4,22 +4,22 @@ permalink: ONTAP/update-storage-system.html
 keywords: update ontap storage system 
 summary: Mettez à jour votre système de stockage ONTAP pour bénéficier des nouvelles fonctionnalités et des améliorations apportées. 
 ---
-= Effectuer la mise à jour du système de stockage ONTAP
+= Lancez la mise à jour ONTAP à l'aide des mises à jour du logiciel BlueXP 
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Une fois que vous avez identifié la version cible de ONTAP, corrigé et validé tous les bloqueurs, vous pouvez maintenant terminer la mise à jour de votre système de stockage ONTAP.
+Une fois que vous avez identifié la version cible de ONTAP, corrigé et validé tous les bloqueurs, vous pouvez à présent lancer la mise à jour de votre système de stockage ONTAP.
 
 .Étapes
 . Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.
 +
 La liste des clusters qui nécessitent une mise à jour logicielle s'affiche.
 
-. Identifiez la version cible ONTAP de votre système de stockage. Pour plus d'informations sur l'identification de la version cible ONTAP, reportez-vous à la section link:../ONTAP/choose-ontap-910-later.html["Choisissez ONTAP cible version 9.10 ou ultérieure"].
-. Corrigez et validez les bloqueurs ONTAP. Pour plus d'informations sur la résolution des bloqueurs, reportez-vous à la section link:../ONTAP/fix-blockers-warnings.html["Corriger et accuser réception des bloqueurs ONTAP"].
+. Identifiez la version cible ONTAP de votre système de stockage. Pour plus d'informations sur l'identification de la version cible ONTAP, reportez-vous à la section link:../ONTAP/choose-ontap-910-later.html["Comparez les versions de ONTAP pour comprendre les avantages et les risques liés aux mises à jour de logiciels BlueXP "].
+. Corrigez et validez les bloqueurs ONTAP. Pour plus d'informations sur la résolution des bloqueurs, reportez-vous à la section link:../ONTAP/fix-blockers-warnings.html["Corrigez tous les bloqueurs à l'aide des mises à jour du logiciel BlueXP  avant une mise à niveau ONTAP"].
 . Lisez et acceptez le contrat de licence de l'utilisateur final.
 +
 Attendez que l'image ONTAP soit récupérée.

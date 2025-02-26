@@ -11,7 +11,7 @@ summary: 'Validez l"état de votre mise à jour ONTAP pour décider des prochain
 
 
 [role="lead"]
-Une fois le processus de mise à jour ONTAP terminé, vous devez vérifier l'état de la mise à jour ONTAP.
+Vous pouvez utiliser les mises à jour du logiciel BlueXP  pour valider l'état de la mise à jour ONTAP.
 
 .Étapes
 . Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.

@@ -1,17 +1,17 @@
 ---
 sidebar: sidebar 
 permalink: ONTAP/choose-ontap-910-later.html 
-keywords: choose ontap target version, ontap update recommendations, identify ontap target version 
+keywords: choose ontap target version, ontap update recommendations, identify ontap target version, recommended version, benefits and risks or ONTAP version 
 summary: Étudiez les avantages et les risques de chaque version de ONTAP avant de mettre à niveau votre système de stockage ONTAP. 
 ---
-= Choisissez ONTAP cible version 9.10 ou ultérieure
+= Comparez les versions de ONTAP pour comprendre les avantages et les risques liés aux mises à jour de logiciels BlueXP 
 :allow-uri-read: 
 :icons: font
 :imagesdir: ../media/
 
 
 [role="lead"]
-Avant de choisir la version ONTAP pour le système de stockage, il est très important d'identifier les avantages et de comprendre les risques associés à la version cible de ONTAP.
+Il est très important de comparer et de comprendre les avantages et les risques associés à la version cible de ONTAP avant de mettre à jour la version de ONTAP pour le système de stockage.
 
 Vous pouvez choisir la version cible et la comparer à la version actuelle pour comprendre les avantages de la mise à jour vers la version spécifique sur ONTAP. Vous pouvez également voir les risques qui seront résolus et les nouveaux risques (le cas échéant) qui se présenteront lors de la mise à jour vers la version spécifique de ONTAP.
 

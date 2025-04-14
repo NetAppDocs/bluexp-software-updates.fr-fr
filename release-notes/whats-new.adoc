@@ -15,6 +15,16 @@ Découvrez les nouveautés des mises à jour du logiciel BlueXP .
 
 
 
+== 02 avril 2025
+
+
+
+=== Risques atténués
+
+Dans la section récapitulative des mises à jour logicielles BlueXP , vous pouvez maintenant afficher le nombre total de risques pouvant être atténués par la mise à jour du système d'exploitation. Cela permet aux utilisateurs d'évaluer les améliorations de sécurité et de stabilité de leur base d'installation.
+
+
+
 == 07 août 2024
 
 

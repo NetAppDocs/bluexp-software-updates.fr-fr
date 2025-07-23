@@ -13,6 +13,9 @@ summary: Mettez à jour votre système de stockage ONTAP en toute transparence a
 [role="lead"]
 Vous pouvez utiliser le service de mises à jour logicielles BlueXP  pour permettre aux clients de rationaliser les mises à jour ONTAP. Cela peut vous aider à réduire les coûts, accélérer les workloads stratégiques et améliorer la sécurité.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage, visualiseur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 Le service de mise à jour du logiciel BlueXP  automatise les processus d'évaluation, de planification et d'exécution. L'outil intelligent de conseil des mises à niveau prévoit les versions qui conviennent le mieux à votre environnement. Il recommande des versions afin de résoudre les problèmes, d'améliorer l'efficacité et d'améliorer la sécurité du système. Les clients peuvent ainsi déterminer la meilleure option pour répondre à leurs besoins. Ensuite, il distribue le progiciel et exécute automatiquement la mise à niveau automatisée sans distribution (ANDU), indépendamment des services de support.
 
 

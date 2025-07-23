@@ -13,11 +13,12 @@ summary: Vérifiez les conditions requises avant de procéder à la mise à jour
 [role="lead"]
 Vous devez vérifier les conditions préalables et requises avant de procéder à la mise à jour de ONTAP. Vous pouvez utiliser les mises à jour du logiciel BlueXP  pour vérifier que votre environnement opérationnel, votre connexion, votre accès au réseau et votre navigateur Web sont opérationnels.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage, visualiseur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 Pour utiliser les mises à jour logicielles BlueXP , vous devez vous assurer que votre environnement répond à toutes les exigences.
 
-* Une organisation BlueXP  est disponible.
 * Un environnement de travail est configuré dans BlueXP .
-* Les Privileges d'administration sont disponibles pour effectuer la mise à jour du logiciel à l'aide de System Manager.
 * Les informations d'identification de l'administrateur sont disponibles pour le cluster souhaité lors de la mise à jour du logiciel.
 * Tous les nœuds du cluster envoient des données AutoSupport.
 * Tous les nœuds doivent s'exécuter sur ONTAP 9.10 ou une version ultérieure.

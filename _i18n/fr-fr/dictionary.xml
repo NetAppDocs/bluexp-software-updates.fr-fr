@@ -23,15 +23,10 @@
   <block id="7d73325ccb71b4870e81c3c8734ba56e" category="paragraph">Une fois que vous avez identifié la version cible ONTAP de votre système de stockage ONTAP, vous devez corriger et accuser réception de tous les bloqueurs, puis passer en revue les avertissements avant de mettre à jour le système de stockage ONTAP.</block>
   <block id="2458f462c36fbeec4b6536099135f298" category="paragraph">La correction et la reconnaissance de tous les bloqueurs sont obligatoires et assurent un processus de mise à jour de logiciel transparent.</block>
   <block id="a710a4a4b33a19ce9678b290e8622101" category="paragraph">La liste des clusters qui nécessitent une mise à jour logicielle s'affiche.</block>
-  <block id="06cd15ffbdad395f54961af4b4da3f7d" category="list-text">Une fois que vous avez choisi la version cible de ONTAP, cliquez sur *préparer la mise à jour* pour lancer le processus de mise à jour.</block>
   <block id="921328cf9f5d7f1029ee8f2b5eb6add6" category="paragraph">La liste des bloqueurs et des avertissements s'affiche.</block>
   <block id="0d3e45ea704fa7abdf905562392b0203" category="list-text">Sélectionnez le bloqueur pour afficher les instructions de correction du bloqueur.</block>
   <block id="8aa655b81ac9a54174b8b2f3c0e078b3" category="list-text">Effectuez manuellement les étapes fournies pour corriger le blocage.</block>
-  <block id="dd65b396655e879f1cc555905f551ba9" category="list-text">Sélectionnez les bloqueurs qui ont été corrigés et cliquez sur *Acknowledge selected* pour confirmer que les bloqueurs ont été corrigés.</block>
   <block id="deef003c349019061441ab60dd6ecf90" category="admonition">Vous devez corriger et accuser réception de tous les bloqueurs pour poursuivre la mise à jour.</block>
-  <block id="f00541528c969eb6abe8cce5f5281ccc" category="list-text">Cliquez sur l'onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.</block>
-  <block id="3a49822934e3057e70050398c92aa888" category="list-text">Cliquez sur l'onglet *Acknowledge* pour afficher les bloqueurs qui ont été corrigés.</block>
-  <block id="5143d195cc41390e0e4722e37a8b670d" category="list-text">Cliquez sur *Continuer pour mettre à jour* pour poursuivre le processus de mise à jour.</block>
   <block id="0fd40a88a795a27afa35dc3e7dbce97c" category="summary">Mettez à jour votre système de stockage ONTAP pour bénéficier des nouvelles fonctionnalités et des améliorations apportées.</block>
   <block id="ef54c6082f1b8fb3ea432a9b7cdce377" category="doc">Effectuer la mise à jour du système de stockage ONTAP</block>
   <block id="84159d0a25239d2d4573172d023c46e7" category="list-text">Lisez et acceptez le contrat de licence de l'utilisateur final.</block>
@@ -51,7 +46,6 @@
   <block id="24958f1bc0c9e80abac7daea72c06854" category="list-text">Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé &gt; mises à jour logicielles.*</block>
   <block id="20b41c007263bf3cb834352319595be6" category="summary">Vérifiez les conditions requises avant de procéder à la mise à jour de ONTAP.</block>
   <block id="7efc4f28b854970100677afdf18e3743" category="paragraph">Pour utiliser les mises à jour logicielles BlueXP , vous devez vous assurer que votre environnement répond à toutes les exigences.</block>
-  <block id="f79a5712ad4df34137efe352ad13262f" category="list-text">Les Privileges d'administration sont disponibles pour effectuer la mise à jour du logiciel à l'aide de System Manager.</block>
   <block id="0a97d1300ce9361165541c64b6bd10b7" category="list-text">Les informations d'identification de l'administrateur sont disponibles pour le cluster souhaité lors de la mise à jour du logiciel.</block>
   <block id="b34cd7f587984e9b254885f6d8640801" category="list-text">Tous les nœuds du cluster envoient des données AutoSupport.</block>
   <block id="27eb16a8f5038a8a66d0aec86d022bbd" category="list-text">Tous les nœuds doivent s'exécuter sur ONTAP 9.10 ou une version ultérieure.</block>
@@ -151,8 +145,6 @@
   <block id="9d06990508d25d367d9158c6558eb9c8" category="list-text"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
   <block id="7450cfde7058dc5e1f7909d0280fd7ae" category="inline-link-macro">Azure NetApp Files</block>
   <block id="2e0c742f4616eb27b5b7646aa790edfe" category="list-text"><block ref="2e0c742f4616eb27b5b7646aa790edfe" category="inline-link-macro-rx"></block></block>
-  <block id="b0cee72642f5457a71ddd0b49efb6d93" category="inline-link-macro">Cloud Volumes Service pour Google Cloud</block>
-  <block id="cf14bff66a8b72d3675db8ffe0f02ee3" category="list-text"><block ref="cf14bff66a8b72d3675db8ffe0f02ee3" category="inline-link-macro-rx"></block></block>
   <block id="3880ae5df9fdc4d0fc4a6d00a2239530" category="paragraph">Pour bénéficier du support technique spécifique à BlueXP et à ses solutions et services de stockage, utilisez les options de support décrites ci-dessous.</block>
   <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">Utilisation d'options de support en libre-service</block>
   <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">Ces options sont disponibles gratuitement, 24 heures sur 24, 7 jours sur 7 :</block>
@@ -308,7 +300,6 @@
   <block id="33871b6190a8d5adbe8b15282054766c" category="sidebar">Quoi de neuf</block>
   <block id="0adc03eac86772ad2c75c8f140be417e" category="sidebar">Connaissances et support</block>
   <block id="e9286f8f31c5b4b57dc1c4b27396c2bf" category="paragraph">Cela est dû à la version actuelle de ONTAP et à l'indisponibilité du connecteur BlueXP  pour les clusters. Un connecteur BlueXP  exécute la mise à jour ONTAP dans BlueXP  et ne nécessite pas de quitter BlueXP  pour une mise à jour. Si vous ne disposez pas d'un connecteur BlueXP , vous serez redirigé vers System Manager et devrez saisir à nouveau les informations d'identification du cluster ONTAP. Pour plus d'informations sur le processus de mise à jour ONTAP pour les différentes versions de ONTAP, reportez-vous à la section <block ref="9368a1ed7fc94ef1fa0dd54dc646113b" category="inline-link-macro-rx"></block>.</block>
-  <block id="7fd857a6ab8e5cb6d32815d3414ad1f1" category="list-text">Une organisation BlueXP  est disponible.</block>
   <block id="6e3e90ee630b7faf0d6dad037bbd177a" category="list-text">Un environnement de travail est configuré dans BlueXP .</block>
   <block id="98d90e398fc56688ddc647e5f49075ec" category="paragraph">La liste des environnements de travail s'applique à l'organisation (ou au compte), au projet (ou à l'espace de travail) et au connecteur BlueXP  que vous avez sélectionnés dans la bannière supérieure du service.</block>
   <block id="29360bfcdbc91d3f1514c372b4585965" category="list-text">Enregistrement du numéro de série de votre compte BlueXP  (votre numéro de série 960xxxxxxxxx à 20 chiffres, disponible sur la page des ressources de support de BlueXP ).</block>
@@ -344,4 +335,20 @@
   <block id="f50a226c5a51111405309ae78236d95d" category="doc">Risques atténués</block>
   <block id="66fa090892a2bd81c896ab6fbf156b19" category="paragraph">Dans la section récapitulative des mises à jour logicielles BlueXP , vous pouvez maintenant afficher le nombre total de risques pouvant être atténués par la mise à jour du système d'exploitation. Cela permet aux utilisateurs d'évaluer les améliorations de sécurité et de stabilité de leur base d'installation.</block>
   <block id="47388f68695ab5799ff2adfb33bca00d" category="section-title">02 avril 2025</block>
+  <block id="eb41c324559b969116f2a7d0e5a512c7" category="paragraph-title">Rôle BlueXP requis :</block>
+  <block id="fd3b9b6f969e334605ecb2deacbd84cc" category="inline-link-macro">Découvrez les rôles d’accès BlueXP.</block>
+  <block id="4de48b1d25f387ca4892d8634f62973e" category="paragraph">Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. <block ref="6677d2bbecb9c8fe39d4645334e442a8" category="inline-link-macro-rx"></block></block>
+  <block id="0fdb0ceffdc4d2d2cdb1f927a8e4bbe5" category="list-text">Sélectionnez *Démarrer la mise à jour* pour lancer le processus de mise à jour.</block>
+  <block id="33ba4cda6895a31680b2de36d86dab15" category="list-text">Une fois que vous avez choisi la version cible ONTAP , sélectionnez *Préparer la mise à jour* pour lancer le processus de mise à jour.</block>
+  <block id="6a9157b81110d193ae9726acd434a73b" category="list-text">Sélectionnez les bloqueurs qui ont été corrigés et sélectionnez *Reconnaître la sélection* pour reconnaître que les bloqueurs ont été corrigés.</block>
+  <block id="f1bceb312606e73e3fc3cb05ba0db012" category="list-text">Sélectionnez l'onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.</block>
+  <block id="185674eb1bcbdcee59090d2a4854c5bd" category="list-text">Sélectionnez l'onglet *Reconnaître* pour afficher les bloqueurs qui ont été corrigés.</block>
+  <block id="46ab049c063b4859793fe4d01b477a97" category="list-text">Sélectionnez *Continuer la mise à jour* pour poursuivre le processus de mise à jour.</block>
+  <block id="b6f64caf7d0bc5014c5dc5b478d3b150" category="paragraph">Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage, visualiseur de stockage ou spécialiste de l'état du système. <block ref="6677d2bbecb9c8fe39d4645334e442a8" category="inline-link-macro-rx"></block></block>
+  <block id="1da5a40083bd16c3443e7eda42875506" category="doc">Rôle d'accès BlueXP requis</block>
+  <block id="53dafb5a873d00157d780f773c016fed" category="paragraph">Vous devez désormais disposer de l'un des rôles d'accès suivants pour installer les mises à jour logicielles : *Administrateur de l'organisation*, *Administrateur de dossier ou de projet*, *Administrateur du stockage*, *Observateur du stockage* ou *Spécialiste de l'intégrité du stockage*. Les utilisateurs disposant du rôle d'observateur du stockage disposent de diverses autorisations liées aux mises à jour logicielles, mais ne peuvent pas les installer. <block ref="5f4605f8f9a6dca73fc40e564cf6fcbc" category="inline-link-macro-rx"></block></block>
+  <block id="0a7ea76c19ce14ea769fa96b38086400" category="paragraph">Vous devez également disposer de l’un des rôles d’accès suivants : administrateur d’organisation, administrateur de dossier ou de projet ou administrateur de stockage.</block>
+  <block id="e48502083eb8949c8f65b2ccddd5adec" category="section-title">12 mai 2025</block>
+  <block id="1215f8190533dfdf63d2224a6d88266f" category="inline-link-macro">Google Cloud NetApp volumes</block>
+  <block id="cb4bf32603c89d08cad17e7e7dd302f2" category="list-text"><block ref="cb4bf32603c89d08cad17e7e7dd302f2" category="inline-link-macro-rx"></block></block>
 </blocks>

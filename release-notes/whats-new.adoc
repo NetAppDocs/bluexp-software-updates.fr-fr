@@ -15,6 +15,16 @@ Découvrez les nouveautés des mises à jour du logiciel BlueXP .
 
 
 
+== 12 mai 2025
+
+
+
+=== Rôle d'accès BlueXP requis
+
+Vous devez désormais disposer de l'un des rôles d'accès suivants pour installer les mises à jour logicielles : *Administrateur de l'organisation*, *Administrateur de dossier ou de projet*, *Administrateur du stockage*, *Observateur du stockage* ou *Spécialiste de l'intégrité du stockage*. Les utilisateurs disposant du rôle d'observateur du stockage disposent de diverses autorisations liées aux mises à jour logicielles, mais ne peuvent pas les installer. link:https://docs.netapp.com/us-en/bluexp/concept-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
+
+
 == 02 avril 2025
 
 

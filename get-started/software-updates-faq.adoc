@@ -36,3 +36,5 @@ Cela est dû à la version actuelle de ONTAP et à l'indisponibilité du connect
 *Que dois-je faire pour découvrir des clusters?*
 
 Pour effectuer une mise à jour ONTAP pour le cluster souhaité, vous devez disposer de l'adresse IP de cluster ONTAP et des informations d'identification d'administration pour la connexion au cluster. Dans le cadre de la détection de cluster, vous devez fournir ces détails pour que la mise à jour ONTAP puisse être exécutée automatiquement.
+
+Vous devez également disposer de l’un des rôles d’accès suivants : administrateur d’organisation, administrateur de dossier ou de projet ou administrateur de stockage.

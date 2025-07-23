@@ -13,6 +13,9 @@ summary: Étudiez les avantages et les risques de chaque version de ONTAP avant 
 [role="lead"]
 Il est très important de comparer et de comprendre les avantages et les risques associés à la version cible de ONTAP avant de mettre à jour la version de ONTAP pour le système de stockage.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 Vous pouvez choisir la version cible et la comparer à la version actuelle pour comprendre les avantages de la mise à jour vers la version spécifique sur ONTAP. Vous pouvez également voir les risques qui seront résolus et les nouveaux risques (le cas échéant) qui se présenteront lors de la mise à jour vers la version spécifique de ONTAP.
 
 
@@ -47,7 +50,7 @@ Vous souhaitez choisir une autre version
 . Sélectionnez la version pour afficher les avantages de la fonction et les risques.
 . Sélectionnez et affichez les informations sur les risques qui seront résolus, les risques qui continueront de se maintenir et les nouveaux risques qui seront introduits après la mise à jour.
 . Si vous le souhaitez, cliquez sur *Télécharger le plan de mise à jour* pour télécharger une copie du plan de mise à jour.
-. Cliquez sur *Démarrer la mise à jour* pour lancer le processus de mise à jour.
+. Sélectionnez *Démarrer la mise à jour* pour lancer le processus de mise à jour.
 
 
 |===

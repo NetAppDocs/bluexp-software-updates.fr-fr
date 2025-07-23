@@ -13,6 +13,9 @@ summary: Corrigez les bloqueurs ONTAP et acceptez les avertissements qui vous em
 [role="lead"]
 Une fois que vous avez identifié la version cible ONTAP de votre système de stockage ONTAP, vous devez corriger et accuser réception de tous les bloqueurs, puis passer en revue les avertissements avant de mettre à jour le système de stockage ONTAP.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 La correction et la reconnaissance de tous les bloqueurs sont obligatoires et assurent un processus de mise à jour de logiciel transparent.
 
 .Étapes
@@ -21,19 +24,19 @@ La correction et la reconnaissance de tous les bloqueurs sont obligatoires et as
 La liste des clusters qui nécessitent une mise à jour logicielle s'affiche.
 
 . Identifiez la version cible ONTAP de votre système de stockage. Pour plus d'informations sur l'identification de la version cible ONTAP, reportez-vous à la section link:../ONTAP/choose-ontap-910-later.html["Comparez les versions de ONTAP pour comprendre les avantages et les risques liés aux mises à jour de logiciels BlueXP "].
-. Une fois que vous avez choisi la version cible de ONTAP, cliquez sur *préparer la mise à jour* pour lancer le processus de mise à jour.
+. Une fois que vous avez choisi la version cible ONTAP , sélectionnez *Préparer la mise à jour* pour lancer le processus de mise à jour.
 +
 La liste des bloqueurs et des avertissements s'affiche.
 
 . Sélectionnez le bloqueur pour afficher les instructions de correction du bloqueur.
 . Effectuez manuellement les étapes fournies pour corriger le blocage.
-. Sélectionnez les bloqueurs qui ont été corrigés et cliquez sur *Acknowledge selected* pour confirmer que les bloqueurs ont été corrigés.
+. Sélectionnez les bloqueurs qui ont été corrigés et sélectionnez *Reconnaître la sélection* pour reconnaître que les bloqueurs ont été corrigés.
 
 
 
 NOTE: Vous devez corriger et accuser réception de tous les bloqueurs pour poursuivre la mise à jour.
 
-. Cliquez sur l'onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.
-. Cliquez sur l'onglet *Acknowledge* pour afficher les bloqueurs qui ont été corrigés.
-. Cliquez sur *Continuer pour mettre à jour* pour poursuivre le processus de mise à jour.
+. Sélectionnez l'onglet *Avertissements* pour consulter les avertissements avant de procéder à la mise à jour du logiciel.
+. Sélectionnez l'onglet *Reconnaître* pour afficher les bloqueurs qui ont été corrigés.
+. Sélectionnez *Continuer la mise à jour* pour poursuivre le processus de mise à jour.
 

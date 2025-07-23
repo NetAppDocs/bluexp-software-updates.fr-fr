@@ -13,6 +13,9 @@ summary: Mettez à jour votre système de stockage ONTAP pour bénéficier des n
 [role="lead"]
 Une fois que vous avez identifié la version cible de ONTAP, corrigé et validé tous les bloqueurs, vous pouvez à présent lancer la mise à jour de votre système de stockage ONTAP.
 
+.Rôle BlueXP requis :
+Administrateur d'organisation, administrateur de dossier ou de projet, administrateur de stockage ou spécialiste de l'état du système. link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["Découvrez les rôles d’accès BlueXP."^]
+
 .Étapes
 . Dans le menu de navigation de gauche de BlueXP , sélectionnez *Santé > mises à jour logicielles*.
 +
